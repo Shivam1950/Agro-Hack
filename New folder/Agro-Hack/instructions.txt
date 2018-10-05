@@ -1,0 +1,21 @@
+Instruction's :-
+
+0. store the file named new folder in a new disc/ i.e. not C drive so, that the working of website doesn't stop.
+
+1. open the main website by clicking on index.html
+=> it is main code for our website
+
+2. you can run the feature's by clicking on the links
+
+a. AI predict-future
+
+NOTE -> The AI predict-future uses ML algorithm to predict the right crop needed on the basis of production area and region like kharif etc and when u click on it, it will open the code needed to run it, but u will need Jupiter Notebook to use it.
+
+b. Video platform
+
+NOTE -> U'll need two computer to run it, The one person publish the video
+and other join the video chat.
+
+3. You can also give feedback (if u want)
+
+4. You can also check the wether which is integrated within the website.

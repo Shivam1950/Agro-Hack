@@ -1,0 +1,15 @@
+Read me -->
+
+This project is created by team Hack-Tech comprising: 
+Shivam Tayal(shivamtayal6@gmail.com), 
+Aman Aggarwal(aman2382000@gmail.com), 
+Shivansh Srivastava(shivanshsrivastava2000@gmail.com), and
+Ashish Kumar Singh(ashishashoksingh3@gmail.com).
+
+We are first year Student's from VIT, Vellore. who joined this Devfest'18 by GDG so that they could learn something new out of this competion
+
+The Agro-hack is the name we have given to this project
+
+It is aim to make things easier for the farmer's who make life very easier for us by performing there part
+
+so, i wish u good luck for using our website

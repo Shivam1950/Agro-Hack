@@ -1,0 +1,10 @@
+Where to look:
+
+1. The folder named "Agora_Web_SDK_v2_4_1FULL" contain the code for Agora Video platform.
+
+2. The folder named "Archive" conatin the code for 'mPASHU' and 'mKISAN', which are a feature's in our main application.
+
+3. The folder named "assets" contain the basic code for our application i.e. the website.
+
+4. The folder named "hack-tech-master" has the code for Machine Learning Algorithm.
+
